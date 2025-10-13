@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>StorageManager</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>StorageManager 1.0.1</title>
+      <pubDate>Mon, 13 Oct 2025 13:54:51 +03:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/kaoren1/StorageManagerRelease/releases/download/v1.0.1/StorageManager.exe" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="199536871" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:edSignature="WnK/VidTBgAiluxSF/2KO5kRfqATrTo4xFXU+ozHQHXEIN1d5Lm45NhNtnNpg0ZmnqdPNje+rzLtNPU9ckFrDg==" />
+    </item>
+    <item>
+      <title>StorageManager 1.0.0</title>
+      <pubDate>Mon, 13 Oct 2025 13:05:00 +03:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/kaoren1/StorageManagerRelease/releases/download/v1.0.0/StorageManager.exe" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="199536871" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:edSignature="ваша-подпись-1.0.0" />
+    </item>
+  </channel>
+</rss>
